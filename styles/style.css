@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(rgba(113, 119, 134), rgb(0, 0, 0));
+  background-image: linear-gradient(#717786, #000000);
 }
 
 .platform {
@@ -31,7 +31,6 @@
 
 .htmlImage {
   width: 100%;
-  margin: 0;
 }
 
 .downArrow {
@@ -39,7 +38,6 @@
   left: 70rem;
   bottom: 9rem;
   width: 5%;
-  margin: 0;
 }
 
 .descriptionContainer {
